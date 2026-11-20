@@ -56,7 +56,7 @@ A full-stack application designed to organize student goals, budgets, habits, an
 
 🤝 Let's Connect!
 
-- 💼 LinkedIn: Add your LinkedIn profile link here
+- 💼 LinkedIn:[Connect with me] https://www.linkedin.com/in/chinmai-s-41185831b/
 - 🐙 GitHub: "chinmai006s" (https://github.com/chinmai006s)
 
 ---
